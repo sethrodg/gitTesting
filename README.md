@@ -7,4 +7,4 @@ This line should showup on main with a git pull, but not on sethTest1
 
 This update is happening from origin, checkout sethTest1 and run git pull origin main --rebase and we should have it.
 
-This should go back to 8.
+This line i can pull from main and rebase sethTest1 from main.
